@@ -27,7 +27,7 @@
     "storybook": "~7",
     "@storybook/cli": "~8",
     "@storybook/addon-essentials": "~8",
-    "@storybook/addon-links": "~7",
+    "@storybook/addon-links": "~8",
     "@storybook/blocks": "~7",
     "@storybook/react": "~7",
     "@storybook/server": "~8",
