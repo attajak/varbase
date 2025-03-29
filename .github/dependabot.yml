@@ -9,7 +9,18 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
+    open-pull-requests-limit: 1000
+    assignees:
+      - "attajak"
+    labels:
+      - "dependencies"
+
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
       interval: "daily"
+    open-pull-requests-limit: 1000
+    assignees:
+      - "attajak"
+    labels:
+      - "dependencies"
