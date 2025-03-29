@@ -43,7 +43,7 @@
     "@lullabot/storybook-drupal-addon": "~2",
     "storybook-addon-root-attribute": "~1",
     "storybook-addon-rtl-direction": "^0.0.19",
-    "fork-ts-checker-webpack-plugin": "~8 || ~9",
+    "fork-ts-checker-webpack-plugin": "~9",
     "eslint": "~8",
     "eslint-config-airbnb": "~19.0",
     "eslint-config-prettier": "^6.7.0",
