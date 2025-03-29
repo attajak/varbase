@@ -67,6 +67,7 @@ errors.log
 # Ignore yarn lint dependencies.
 /node_modules
 /docroot/**/node_modules
+package-lock.json
 
 # Ignore editor config and gitattributes.
 /.editorconfig
