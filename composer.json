@@ -29,7 +29,7 @@
   "require": {
     "composer/installers": "~2",
     "drupal/core-composer-scaffold": "~11",
-    "drupal/core-project-message": "~10",
+    "drupal/core-project-message": "~11",
     "cweagans/composer-patches": "~1",
     "webflo/drupal-finder": "~1.0",
     "vardot/varbase": "~10.0.0",
