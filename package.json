@@ -26,7 +26,7 @@
     "react-dom": "^18.2.0",
     "storybook": "~7",
     "@storybook/cli": "~8",
-    "@storybook/addon-essentials": "~7",
+    "@storybook/addon-essentials": "~8",
     "@storybook/addon-links": "~7",
     "@storybook/blocks": "~7",
     "@storybook/react": "~7",
