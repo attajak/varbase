@@ -14,6 +14,7 @@ updates:
       - "attajak"
     labels:
       - "dependencies"
+      - "php"
 
   - package-ecosystem: "npm"
     directory: "/"
@@ -24,3 +25,4 @@ updates:
       - "attajak"
     labels:
       - "dependencies"
+      - "javascript"
