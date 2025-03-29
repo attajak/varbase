@@ -24,7 +24,7 @@
     "webpack-cli": "~5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "storybook": "~7",
+    "storybook": "~8",
     "@storybook/cli": "~8",
     "@storybook/addon-essentials": "~8",
     "@storybook/addon-links": "~8",
