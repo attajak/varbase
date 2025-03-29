@@ -46,7 +46,7 @@
     "fork-ts-checker-webpack-plugin": "~9",
     "eslint": "~8",
     "eslint-config-airbnb": "~19.0",
-    "eslint-config-prettier": "^6.7.0",
+    "eslint-config-prettier": "^10.1.1",
     "eslint-plugin-import": "^2.13.0",
     "eslint-plugin-jquery": "^1.5.1",
     "eslint-plugin-jsx-a11y": "^6.0.3",
