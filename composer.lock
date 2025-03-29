@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "10e58c1ac2125462c16794c3388104cb",
+    "content-hash": "b129a7360ec80359d406cfe6f06dcc9d",
     "packages": [
         {
             "name": "abraham/twitteroauth",
@@ -5152,7 +5152,7 @@
         },
         {
             "name": "drupal/core-project-message",
-            "version": "10.4.4",
+            "version": "11.1.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-project-message.git",
@@ -5187,7 +5187,7 @@
                 "drupal"
             ],
             "support": {
-                "source": "https://github.com/drupal/core-project-message/tree/11.1.4"
+                "source": "https://github.com/drupal/core-project-message/tree/11.1.5"
             },
             "time": "2023-07-24T07:55:25+00:00"
         },
