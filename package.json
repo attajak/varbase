@@ -29,7 +29,7 @@
     "@storybook/addon-essentials": "~8",
     "@storybook/addon-links": "~8",
     "@storybook/blocks": "~7",
-    "@storybook/react": "~7",
+    "@storybook/react": "~8",
     "@storybook/server": "~8",
     "@storybook/components": "~7",
     "@storybook/core-events": "~7",
