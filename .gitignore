@@ -9,6 +9,7 @@
 /docroot/profiles/varbase/
 /docroot/libraries/
 /docroot/recipes/
+composer.lock
 
 # Ignore sensitive information
 /docroot/sites/*/settings.php
@@ -68,7 +69,7 @@ errors.log
 /node_modules
 /docroot/**/node_modules
 package-lock.json
-pnpm-lock.yml
+pnpm-lock.yaml
 yarn.lock
 
 # Ignore editor config and gitattributes.
