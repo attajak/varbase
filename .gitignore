@@ -68,6 +68,8 @@ errors.log
 /node_modules
 /docroot/**/node_modules
 package-lock.json
+pnpm-lock.yml
+yarn.lock
 
 # Ignore editor config and gitattributes.
 /.editorconfig
