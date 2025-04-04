@@ -1902,37 +1902,7 @@
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
 
-"@storybook/builder-webpack5@8.6.11":
-  version "8.6.11"
-  resolved "https://registry.yarnpkg.com/@storybook/builder-webpack5/-/builder-webpack5-8.6.11.tgz#acfb7996ae84eeecc3160d1900b19e258ea0d5f7"
-  integrity sha512-Vojm5YANhEv1dmX0IcI7Q4yu9ZSKIgOicETVhQlEMCGqVtZWr3HkSOcF6+3JRewY9EaPflxT/maKQ0kYaKt4Sg==
-  dependencies:
-    "@storybook/core-webpack" "8.6.11"
-    "@types/semver" "^7.3.4"
-    browser-assert "^1.2.1"
-    case-sensitive-paths-webpack-plugin "^2.4.0"
-    cjs-module-lexer "^1.2.3"
-    constants-browserify "^1.0.0"
-    css-loader "^6.7.1"
-    es-module-lexer "^1.5.0"
-    fork-ts-checker-webpack-plugin "^8.0.0"
-    html-webpack-plugin "^5.5.0"
-    magic-string "^0.30.5"
-    path-browserify "^1.0.1"
-    process "^0.11.10"
-    semver "^7.3.7"
-    style-loader "^3.3.1"
-    terser-webpack-plugin "^5.3.1"
-    ts-dedent "^2.0.0"
-    url "^0.11.0"
-    util "^0.12.4"
-    util-deprecate "^1.0.2"
-    webpack "5"
-    webpack-dev-middleware "^6.1.2"
-    webpack-hot-middleware "^2.25.1"
-    webpack-virtual-modules "^0.6.0"
-
-"@storybook/builder-webpack5@~8":
+"@storybook/builder-webpack5@8.6.12", "@storybook/builder-webpack5@~8":
   version "8.6.12"
   resolved "https://registry.yarnpkg.com/@storybook/builder-webpack5/-/builder-webpack5-8.6.12.tgz#7f4242b250793485c3921ac3a00a83bdf75f1075"
   integrity sha512-Z7RsQ/1+HbxdbM69JrEFcTL+pnVKUTMmeURMn5/eOvYTGjBtM18vbQTj0LjCUDIjC+v9U+uX8ZJEUVxFbGcxBw==
@@ -2119,13 +2089,6 @@
   resolved "https://registry.yarnpkg.com/@storybook/core-events/-/core-events-8.4.7.tgz#7d2192a97a26fb60d9a25b749e0c8bf0fadbd16d"
   integrity sha512-D5WhJBVfywIVBurNZ7mwSjXT18a8Ct5AfZFEukIBPLaezY21TgN/7sE2OU5dkMQsm11oAZzsdLPOzms2e9HsRg==
 
-"@storybook/core-webpack@8.6.11":
-  version "8.6.11"
-  resolved "https://registry.yarnpkg.com/@storybook/core-webpack/-/core-webpack-8.6.11.tgz#1683142dbabdff6e2a80898cba4e2fc20a4d1155"
-  integrity sha512-VbpcELiHBS+VtrXx+l/CK9fYfVzcUD8f1SaLV6JM7tNPX9EttnfSeGbOsi+5vYuqnhsWIbG3EjIwkiUeAP41XQ==
-  dependencies:
-    ts-dedent "^2.0.0"
-
 "@storybook/core-webpack@8.6.12":
   version "8.6.12"
   resolved "https://registry.yarnpkg.com/@storybook/core-webpack/-/core-webpack-8.6.12.tgz#9ff3ec01206a3f0a1b3cbd5842bd827dcceab3c8"
@@ -2250,14 +2213,14 @@
   resolved "https://registry.yarnpkg.com/@storybook/node-logger/-/node-logger-7.6.20.tgz#c0ca90cf68cf31d84cdcf53c76cec22769407ece"
   integrity sha512-l2i4qF1bscJkOplNffcRTsgQWYR7J51ewmizj5YrTM8BK6rslWT1RntgVJWB1RgPqvx6VsCz1gyP3yW1oKxvYw==
 
-"@storybook/preset-server-webpack@8.6.11":
-  version "8.6.11"
-  resolved "https://registry.yarnpkg.com/@storybook/preset-server-webpack/-/preset-server-webpack-8.6.11.tgz#c4c6447f1bc93fde67c7a8aae2e95aa0e19985a9"
-  integrity sha512-lyIU7okgOorJ11Dq4V7aK+Rpm1TfYjrQ2dx9OfP1wgTYRHv1a6nHg4RPgD9mcfCVJRt3nZmSPtFw8DYY2kDOgg==
+"@storybook/preset-server-webpack@8.6.12":
+  version "8.6.12"
+  resolved "https://registry.yarnpkg.com/@storybook/preset-server-webpack/-/preset-server-webpack-8.6.12.tgz#4fd54e374abe7fe625f896a057f8586efadaec0b"
+  integrity sha512-c9TQvlyDJh3hNxAWbsvSoEPjyFjmV2BJt2s0PslS/THkhYrjd9HNTyj/RoxdBTcX40hSFleRxu3qPj6DAcSLew==
   dependencies:
-    "@storybook/core-webpack" "8.6.11"
+    "@storybook/core-webpack" "8.6.12"
     "@storybook/global" "^5.0.0"
-    "@storybook/server" "8.6.11"
+    "@storybook/server" "8.6.12"
     safe-identifier "^0.4.1"
     ts-dedent "^2.0.0"
     yaml-loader "^0.8.0"
@@ -2348,28 +2311,15 @@
     qs "^6.10.0"
 
 "@storybook/server-webpack5@~8":
-  version "8.6.11"
-  resolved "https://registry.yarnpkg.com/@storybook/server-webpack5/-/server-webpack5-8.6.11.tgz#2e17e3490e3430cbd34551bd90afaf6617298a2e"
-  integrity sha512-A3CLsy7jJ+BNcJB91e0gsYYQb7O1kZOKTuZgfa9WpCK3/tsB3X2myqJN1JYAo+UI2elt89eLlfj7UCwLtk7BZA==
+  version "8.6.12"
+  resolved "https://registry.yarnpkg.com/@storybook/server-webpack5/-/server-webpack5-8.6.12.tgz#f34606cc58d6222242994fa3908eb506ac329df3"
+  integrity sha512-ZpIREDVx6PZjd+2NuPOikArP7aOsmSnNNBzFc5ZUAnzSkMZGWyZj5cUokEBQLs3H0BNd8aOdr+UrMGeayEdD4Q==
   dependencies:
-    "@storybook/builder-webpack5" "8.6.11"
-    "@storybook/preset-server-webpack" "8.6.11"
-    "@storybook/server" "8.6.11"
+    "@storybook/builder-webpack5" "8.6.12"
+    "@storybook/preset-server-webpack" "8.6.12"
+    "@storybook/server" "8.6.12"
 
-"@storybook/server@8.6.11":
-  version "8.6.11"
-  resolved "https://registry.yarnpkg.com/@storybook/server/-/server-8.6.11.tgz#ba9486d993ac3eb4d66151956870a68863ab448c"
-  integrity sha512-9QFSyU6o+Uugjbz60jXLc9W5t/v4/TkEebNUarNqTJni47dkwivms1PcaZmC1OA5MPZmj3kdo6eSOZ10vTmQEQ==
-  dependencies:
-    "@storybook/components" "8.6.11"
-    "@storybook/global" "^5.0.0"
-    "@storybook/manager-api" "8.6.11"
-    "@storybook/preview-api" "8.6.11"
-    "@storybook/theming" "8.6.11"
-    ts-dedent "^2.0.0"
-    yaml "^2.3.1"
-
-"@storybook/server@~8":
+"@storybook/server@8.6.12", "@storybook/server@~8":
   version "8.6.12"
   resolved "https://registry.yarnpkg.com/@storybook/server/-/server-8.6.12.tgz#fa3980ff3f8dbc85a3a6eae1b138feb7005b18d2"
   integrity sha512-FKSrCwkbMrlz/gev36ewCnqR2YXdzYArJICyhCiBJ6uY46T3hI4cRPquRJ2SsGfpG2gDKZsUsKmrQ8iarlUSzg==
