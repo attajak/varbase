@@ -44,7 +44,7 @@
     "storybook-addon-root-attribute": "~1",
     "storybook-addon-rtl-direction": "^0.0.19",
     "fork-ts-checker-webpack-plugin": "~9",
-    "eslint": "~8",
+    "eslint": "~9",
     "eslint-config-airbnb": "~19.0",
     "eslint-config-prettier": "^10.1.1",
     "eslint-plugin-import": "^2.13.0",
