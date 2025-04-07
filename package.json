@@ -60,7 +60,7 @@
     "stylelint-order": "~6.0"
   },
   "devDependencies": {
-    "@types/react": "^18.2.0",
+    "@types/react": "^19.1.0",
     "@types/react-dom": "^19.1.1"
   }
 }
