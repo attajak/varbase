@@ -32,7 +32,7 @@
     "@storybook/react": "~8",
     "@storybook/server": "~8",
     "@storybook/components": "~7",
-    "@storybook/core-events": "~7",
+    "@storybook/core-events": "~8",
     "@storybook/manager-api": "~7",
     "@storybook/preview-api": "~7",
     "@storybook/types": "~7",
