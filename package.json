@@ -37,7 +37,7 @@
     "@storybook/preview-api": "~8",
     "@storybook/types": "~8",
     "@storybook/server-webpack5": "~8",
-    "@storybook/builder-webpack5": "~8",
+    "@storybook/builder-webpack5": "~9",
     "@storybook/theming": "~8",
     "@storybook/addon-a11y": "~8",
     "@lullabot/storybook-drupal-addon": "~2",
