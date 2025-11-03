@@ -39,7 +39,7 @@
     "@storybook/server-webpack5": "~10",
     "@storybook/builder-webpack5": "~9",
     "@storybook/theming": "~8",
-    "@storybook/addon-a11y": "~9",
+    "@storybook/addon-a11y": "~10",
     "@lullabot/storybook-drupal-addon": "~2",
     "storybook-addon-root-attribute": "~1",
     "storybook-addon-rtl-direction": "^0.0.19",
