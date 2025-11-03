@@ -31,6 +31,8 @@
     "@storybook/addon-essentials": "~8",
     "@storybook/addon-links": "~10",
     "@storybook/blocks": "~8",
+    "@storybook/react": "~9",
+    "@storybook/server": "~10",
     "@storybook/react": "~10",
     "@storybook/server": "~9",
     "@storybook/components": "~8",
